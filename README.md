@@ -1,8 +1,9 @@
 <img align="right" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31lpq5obgtgd32sghfevbkr7xdnq" alt="Spotify recently played" width="400" />
 
-<h2 align="left">Hi, I'm Arka 👋<br>An easygoing and creative person who enjoys making things, capturing moments, and exploring new ideas.<br><br>🎮 Game Development<br>🎨 Creative & Design<br>📸 Photography & Videography<br>🎬 Video & Motion Graphics<br>💻 C# & Unity</h2>
+<p align="left" style="font-size: 20px;">Hi, I'm Arka 👋<br>An easygoing and creative person who enjoys making things, capturing moments, and exploring new ideas.<br><br>🎮 Game Development<br>🎨 Creative & Design<br>📸 Photography & Videography<br>🎬 Video & Motion Graphics<br>💻 C# & Unity</p>
 
-<br>
+<br clear="both">
+
 
 ###
 ###
