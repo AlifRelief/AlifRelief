@@ -58,11 +58,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlifRelief/AlifRelief/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/AlifRelief/AlifRelief/snake-output/snake.svg" alt="Snake animation" />
-
-###
 
 <div data-importer="music" align="center">
   <a href="https://open.spotify.com/user/31lpq5obgtgd32sghfevbkr7xdnq">
