@@ -2,7 +2,7 @@
 
 <h2 align="left">Hi, I'm Arka 👋<br>An easygoing and creative person who enjoys making things, capturing moments, and exploring new ideas.<br><br>🎮 Game Development<br>🎨 Creative & Design<br>📸 Photography & Videography<br>🎬 Video & Motion Graphics<br>💻 C# & Unity</h2>
 
-<br clear="both">
+<br>
 
 ###
 ###
