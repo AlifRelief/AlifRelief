@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZkZWhiZGRia2R3aWFra25xNHExeGM5bzZka2toZjZsbmRmNGlvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IKFVtPf8jP6KJH16dB/giphy.gif" />
 
 ###
 
@@ -38,7 +38,7 @@
   <a href="https://open.spotify.com/user/31lpq5obgtgd32sghfevbkr7xdnq?si=001439a8608644b1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=000000&logoColor=1DB954&labelColor=&style=for-the-badge" height="35" alt="spotify logo"  />
   </a>
-  <a href="wa.me/+6182141235246" target="_blank">
+  <a href="https://api.whatsapp.com/send/?phone=%2B6282141235246&text&type=phone_number&app_absent=0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
