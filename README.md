@@ -1,11 +1,10 @@
-<h2 data-importer="text" align="left">Hey! 👋<br>Game Development student who likes making games, coding, and exploring creative stuff.<br><br>🎮 Unity & C#<br>🛠️ Game Programming<br>✨ Always learning, always making</h2>
+<img align="right" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31lpq5obgtgd32sghfevbkr7xdnq" alt="Spotify recently played" width="400" />
 
-###
+<h2 align="left">Hi, I'm Arka 👋<br>An easygoing and creative person who enjoys making things, capturing moments, and exploring new ideas.<br><br>🎮 Game Development<br>🎨 Creative & Design<br>📸 Photography & Videography<br>🎬 Video & Motion Graphics<br>💻 C# & Unity</h2>
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZkZWhiZGRia2R3aWFra25xNHExeGM5bzZka2toZjZsbmRmNGlvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IKFVtPf8jP6KJH16dB/giphy.gif" />
-
+###
 ###
 
 <div data-importer="techs" align="left">
@@ -18,6 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="notion logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZkZWhiZGRia2R3aWFra25xNHExeGM5bzZka2toZjZsbmRmNGlvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IKFVtPf8jP6KJH16dB/giphy.gif" />
 </div>
 
 ###
@@ -45,12 +45,12 @@
 
 ###
 
-<div align="center">
-  <img align="left" height="150" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AlifRelief&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-<img align="right" height="150" src="https://streak-stats.demolab.com?user=AlifRelief&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" />
-
-<br clear="both">
-</div>
+<table align="center" border="0">
+  <tr>
+    <td><img height="150" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AlifRelief&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></td>
+    <td><img height="150" src="https://streak-stats.demolab.com?user=AlifRelief&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" /></td>
+  </tr>
+</table>
 
 ###
 
@@ -61,12 +61,7 @@
 </picture>
 
 
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/31lpq5obgtgd32sghfevbkr7xdnq">
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31lpq5obgtgd32sghfevbkr7xdnq" alt="Spotify recently played" width="400" />
-</a>
 
-</div>
 
 ###
 
