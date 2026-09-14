@@ -26,10 +26,10 @@
   <a href="https://www.instagram.com/arkka_x/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://discord.com/channels/@me/1203878869317328991" target="_blank">
+  <a href="https://discord.gg/a.realif" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="muh.alifarka24@gmail.com" target="_blank">
+  <a href="mailto:muh.alifarka24@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/alifarka/" target="_blank">
@@ -44,3 +44,34 @@
 </div>
 
 ###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=AlifRelief&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/AlifRelief/AlifRelief/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlifRelief/AlifRelief/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlifRelief/AlifRelief/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AlifRelief/AlifRelief/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/AlifRelief/AlifRelief/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/arkaaa.">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=arkaaa.&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=AlifRelief.AlifRelief&"  />
+</div>
