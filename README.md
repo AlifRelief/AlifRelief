@@ -45,11 +45,10 @@
 
 ###
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AlifRelief&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-  <img height="150" src="https://streak-stats.demolab.com?user=AlifRelief&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" />
-</div>
+<img align="left" height="150" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AlifRelief&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<img align="right" height="150" src="https://streak-stats.demolab.com?user=AlifRelief&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" />
 
+<br clear="both">
 ###
 
 <picture data-importer="pacman">
