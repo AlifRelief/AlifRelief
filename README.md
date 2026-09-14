@@ -46,11 +46,7 @@
 ###
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=AlifRelief&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" />
   <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AlifRelief&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
-
-<div align="center">
   <img height="150" src="https://streak-stats.demolab.com?user=AlifRelief&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" />
 </div>
 
